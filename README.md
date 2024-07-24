@@ -31,6 +31,9 @@ Vous devez developper les fonctions suivantes, dans, `script.js` :
 #### `syracuse(n)`
 
 - **Description** : Génère la suite de Syracuse pour un nombre \( n \) donné.
+  - Si le nombre \( n \) est pair : je le divise par deux
+  - Si le nombre \( n \) est impair : je le multiplie par 3, et, j'ajoute 1
+  - je continu tant que \( n \) est different de 1
 - **Entrée** : Un entier positif \( n \).
 - **Sortie** : Un tableau contenant la séquence de Syracuse.
 
