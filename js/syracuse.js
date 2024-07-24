@@ -21,8 +21,13 @@ function calculateSyracuse() {
     let inputNumber = document.getElementById("inputNumber").value;
     
 
-    syracuse(inputNumber);
-
+    sequence = syracuse(inputNumber);
+    if(!sequence){
+        document.getElementById("result").innerHTML = "Pas de retour de la fonction syracuse."
+    }
+    else{
+        document.getElementById("result").innerHTML = sequence;
+    }
 }
 
 
