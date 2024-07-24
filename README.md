@@ -59,7 +59,7 @@ Ouvrez le fichier `index.html` dans votre navigateur pour tester l'interface uti
 ## Pour aller plus loin
 
 - Déterminer la longueur de la plus longue série de Syracuse dépassant ou étant egale à 10.
-  - Par exemple, si j'ai [10,11,15,5,10,12] , la réponse est 3. J'ai depassé 3 fois 10, puis je suis tombé en dessous, et je l'ai depassé 2 fois, mais, nous prenons la série la plus longue.
+  - Par exemple, si j'ai [10,11,15,5,10,12,1] , la réponse est 3. J'ai depassé 3 fois 10, puis je suis tombé en dessous, et je l'ai depassé 2 fois, mais, nous prenons la série la plus longue.
 
 
 Bonne chance et bon codage ! Si vous avez des questions, n'hésitez pas à les poser.
