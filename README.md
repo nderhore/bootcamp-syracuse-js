@@ -20,13 +20,13 @@ Ce projet a pour objectif de développer un programme en JavaScript qui calcule 
 ### 1. Cloner le dépôt
 
 ```bash
-git https://github.com/nderhore/bootcamp-syracuse-js.git
+git clone https://github.com/nderhore/bootcamp-syracuse-js.git
 cd bootcamp-syracuse-js
 ```
 
 ### 2. Implémenter les fonctions JavaScript
 
-Vous devez developper les fonctions suivantes, dans, `script.js` :
+Vous devez developper les fonctions suivantes, dans, `syracuse.js` :
 
 #### `syracuse(n)`
 
